@@ -10,7 +10,7 @@
     """,
 
     'author': "MJT",
-    'license':'AGPL-3',
+    'license':'GPL-3',
     'website': "http://www.metrocomjaddi.com",
     'category': 'Payroll',
     'version': '0.1',
