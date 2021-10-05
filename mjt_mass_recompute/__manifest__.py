@@ -16,9 +16,7 @@
     'version': '0.1',
     'depends': ['base'],
     'images': [
-        'static/description/banner.jpg',
-        'static/description/images/banner.jpg'
-        'static/description/thumbnail.jpg'
+        'static/description/banner.jpeg',
     ],
     # always loaded
     'data': [
