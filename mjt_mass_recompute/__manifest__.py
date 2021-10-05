@@ -14,9 +14,8 @@
     'website': "http://www.metrocomjaddi.com",
     'category': 'Payroll',
     'version': '0.1',
-    'images': ['static/description/banner.jpg', 'static/description/images/banner.jpg'],
     'depends': ['base'],
-
+    'images': ['static/description/banner.jpg', 'static/description/images/banner.jpg'],
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
