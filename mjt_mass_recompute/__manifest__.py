@@ -15,7 +15,11 @@
     'category': 'Payroll',
     'version': '0.1',
     'depends': ['base'],
-    'images': ['static/description/banner.jpg', 'static/description/images/banner.jpg'],
+    'images': [
+        'static/description/banner.jpg',
+        'static/description/images/banner.jpg'
+        'static/description/images/thumbnail.jpg'
+    ],
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
