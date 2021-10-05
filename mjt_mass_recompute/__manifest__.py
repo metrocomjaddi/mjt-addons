@@ -18,7 +18,7 @@
     'images': [
         'static/description/banner.jpg',
         'static/description/images/banner.jpg'
-        'static/description/images/thumbnail.jpg'
+        'static/description/thumbnail.jpg'
     ],
     # always loaded
     'data': [
