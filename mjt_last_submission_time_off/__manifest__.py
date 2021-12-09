@@ -15,7 +15,7 @@
     'category': 'Time Off',
     'version': '0.1',
     'images': [
-        'static/description/banner.jpeg',
+        'static/description/banner.png',
     ],
 
     'depends': ['base', 'hr_holidays'],
