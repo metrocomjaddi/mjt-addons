@@ -66,6 +66,7 @@ class HolidaysRequest(models.Model):
                     raise ValidationError(_('You must submit time off proposal no later than the start date of time off plus [%s]') %(self.holiday_status_id.last_submit_date))
         return self
 
+
     @api.onchange('date_from', 'date_to', 'employee_id', 'holiday_status_id')
     def onchange_last_submission(self):
         flag = self.env['res.users'].has_group('mjt_last_submission_time_off.group_admin')

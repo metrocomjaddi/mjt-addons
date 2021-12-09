@@ -1,1 +1,0 @@
-from . import compute_hr_payslip_wiz
