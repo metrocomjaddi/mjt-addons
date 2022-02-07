@@ -10,6 +10,7 @@
     """,
 
     'author': "MJT",
+    'license':'AGPL-3',
     'website': "http://www.metrocomjaddi.com",
 
     # Categories can be used to filter modules in modules listing
